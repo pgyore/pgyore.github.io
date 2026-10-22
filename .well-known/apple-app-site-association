@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["99P4UAC8Q8.com.pgyore.Corporate-Links"],
+        "components": [
+          { "/": "/placement/*", "comment": "Private placement invitations" }
+        ]
+      }
+    ]
+  }
+}
